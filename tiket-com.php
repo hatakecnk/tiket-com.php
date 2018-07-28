@@ -14,7 +14,7 @@ system("clear");
 sleep(2);
 echo "$green+---------------[# TIKET.COM - SPAM SMS #]---------------+\n";
 sleep(2);
-echo "$green+----------------------[# xNot_Found #]----------------------+\n";
+echo "$green+--------------------[# xNot_Found #]--------------------+\n";
 echo "\nNO HP 		: ";
 $no = trim(fgets(STDIN, 1024));
 echo "\nCOUNT 		: ";
