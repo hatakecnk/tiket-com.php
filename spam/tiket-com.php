@@ -2,7 +2,7 @@
 
 /* 
 TIKET.COM Spam Code
-C0ded by : Ardzz & Ilham HaX0r
+C0ded by : xNot_Found
 Github xNot_Found : https://github.com/hatakecnk/xNot_Found
 CP: +12674783379
 */
@@ -54,7 +54,7 @@ for ($x=1; $x<=$loop; $x++) {
 		sleep(10);		
 	}
 }
-echo "$green+------------------------------------------------------+\n";
+echo "$green+-------------------------------------------------------+\n";
 echo "$red|                    [#] xNot_Found [#]                   |\n";
-echo "$green+------------------------------------------------------+\n";
+echo "$green+-------------------------------------------------------+\n";
 ?>
