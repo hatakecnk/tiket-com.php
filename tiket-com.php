@@ -2,9 +2,9 @@
 
 /* 
 TIKET.COM Spam Code
-C0ded by : xNot_Found
-Github xNot_Found : https://github.com/hatakecnk/xNot_Found
-CP: +12674783379
+Coded by : Hatakecnk
+Github Hatakecnk : https://github.com/hatakecnk/xNot_Found
+CP: +1(267)478-3379
 */
 $green  = "\e[92m";
 $red    = "\e[91m";
@@ -14,7 +14,7 @@ system("clear");
 sleep(2);
 echo "$green+---------------[# TIKET.COM - SPAM SMS #]---------------+\n";
 sleep(2);
-echo "$green+--------------------[# xNot_Found #]--------------------+\n";
+echo "$green+---------------------[# H4T4K3CNK #]--------------------+\n";
 echo "\nNO HP 		: ";
 $no = trim(fgets(STDIN, 1024));
 echo "\nCOUNT 		: ";
@@ -55,6 +55,6 @@ for ($x=1; $x<=$loop; $x++) {
 	}
 }
 echo "$green+------------------------------------------------------+\n";
-echo "$red|                   [#] xNot_Found [#]                  |\n";
+echo "$red|                   [#] H4T4K3CNK [#]                  |\n";
 echo "$green+------------------------------------------------------+\n";
 ?>
