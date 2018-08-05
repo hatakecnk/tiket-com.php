@@ -3,7 +3,7 @@
 /* 
 TIKET.COM Spam Code
 Coded by : Hatakecnk
-Github Hatakecnk : https://github.com/hatakecnk/xNot_Found
+Github Hatakecnk : https://github.com/hatakecnk/H4T4K3CNK
 CP: +1(267)478-3379
 */
 $green  = "\e[92m";
